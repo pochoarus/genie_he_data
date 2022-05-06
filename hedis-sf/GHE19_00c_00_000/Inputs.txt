@@ -1,0 +1,42 @@
+
+#--------------------------------------------------------------------------------
+# Metafile that stores information used to generate Structure Functions for HEDIS
+#--------------------------------------------------------------------------------
+# LHAPDF set
+cteq6
+# LHAPDF member
+0
+# NLO
+0
+# Mass Scheme
+
+# Quark threshold
+0
+# NX
+400
+# NQ2
+400
+# Xmin
+1e-06
+# Q2min
+0.1
+# Q2max
+1e+10
+# Mass W
+79.177
+# Mass Z
+90.342
+# Rho
+0
+# Sin2ThW
+0.2319
+# CKM
+0.97467
+0.2236
+0
+0.2236
+0.9736
+0.0447
+0
+0.0447
+0.99989
