@@ -12,4 +12,4 @@ Each folder contains the following files
   - `HEDIS_SF_DATA_DIR`:  hedis-sf data
   - `PHOTON_SF_DATA_DIR`:  photon-sf data
   - `LHAPDF_DATA_PATH`:  pdf data (added to any existing value)
-    - also adds the result of: `lhapdf-config --datadir` in case the library with has been moved from where it was orginally compiled/installed.
+    - also adds the result of: `lhapdf-config --datadir` in case the library has been moved from where it was orginally compiled/installed.
